@@ -1,0 +1,11 @@
+Cluster :
+x = 5 y = 8
+x = 4 y = 9
+x = 2 y = 10
+
+Cluster :
+x = 1 y = 2
+x = 2 y = 5
+x = 6 y = 4
+x = 7 y = 5
+x = 8 y = 4

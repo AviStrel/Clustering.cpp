@@ -1,0 +1,3 @@
+C:/Users/Avi/CLionProjects/clusters/cmake-build-debug/CMakeFiles/clusters.dir
+C:/Users/Avi/CLionProjects/clusters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Avi/CLionProjects/clusters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
