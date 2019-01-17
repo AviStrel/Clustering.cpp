@@ -14,3 +14,7 @@ The headers are in "include" directory.
 The sources are in "source" directory.
 
 For input and the related output files, check "files" directory.
+
+## Authors
+
+* **Avi Strelchin** 
